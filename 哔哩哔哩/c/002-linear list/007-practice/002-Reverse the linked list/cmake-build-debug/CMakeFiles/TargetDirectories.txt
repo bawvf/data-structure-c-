@@ -1,0 +1,3 @@
+D:/c/002-linear list/007-practice/002-Reverse the linked list/cmake-build-debug/CMakeFiles/002_Reverse_the_linked_list.dir
+D:/c/002-linear list/007-practice/002-Reverse the linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c/002-linear list/007-practice/002-Reverse the linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
