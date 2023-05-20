@@ -1,0 +1,3 @@
+D:/data structure/Big/002-stack/001-Sequential storage structure/cmake-build-debug/CMakeFiles/001_Sequential_storage_structure.dir
+D:/data structure/Big/002-stack/001-Sequential storage structure/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data structure/Big/002-stack/001-Sequential storage structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

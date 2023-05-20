@@ -1,0 +1,3 @@
+D:/data structure/Big/002-stack/002-Shared spaces/cmake-build-debug/CMakeFiles/002_Shared_spaces.dir
+D:/data structure/Big/002-stack/002-Shared spaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data structure/Big/002-stack/002-Shared spaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
