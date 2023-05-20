@@ -1,0 +1,3 @@
+D:/data structure/Big/004-Tree/003-firstchild/cmake-build-debug/CMakeFiles/003_firstchild.dir
+D:/data structure/Big/004-Tree/003-firstchild/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data structure/Big/004-Tree/003-firstchild/cmake-build-debug/CMakeFiles/rebuild_cache.dir

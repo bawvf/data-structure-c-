@@ -1,0 +1,161 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "D:/data structure/Big/004-Tree/001-parent/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/data structure/Big/004-Tree/001-parent/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-sw51ml
+
+Run Build Command(s):D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/ninja/win/x64/ninja.exe cmTC_60557 && [1/2] Building C object CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj
+Using built-in specs.
+COLLECT_GCC=D:\ruanjiam\bianchen\C\TDM-GCC 10.3.0\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-git-10.3.0/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,jit,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-filesystem-ts=yes --disable-libstdcxx-pch --enable-libstdcxx-threads --enable-libstdcxx-time=yes --enable-mingw-wildcard --with-gnu-ld --disable-werror --enable-nls --disable-win32-registry --enable-large-address-aware --disable-rpath --disable-symvers --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=https://github.com/jmeubank/tdm-gcc/issues
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 10.3.0 (tdm64-1) 
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/cc1.exe -quiet -v -iprefix D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/ -D_REENTRANT D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\Users\23957\AppData\Local\Temp\ccYtT1E2.s
+GNU C17 (tdm64-1) version 10.3.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.23-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/include"
+ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"
+ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"
+ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C17 (tdm64-1) version 10.3.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.23-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 68074fcaab9f6b1377b55f7cea05149b
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj C:\Users\23957\AppData\Local\Temp\ccYtT1E2.s
+GNU assembler version 2.36.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.36.1
+COMPILER_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+[2/2] Linking C executable cmTC_60557.exe
+Using built-in specs.
+COLLECT_GCC=D:\ruanjiam\bianchen\C\TDM-GCC 10.3.0\bin\gcc.exe
+COLLECT_LTO_WRAPPER=D:/ruanjiam/bianchen/C/TDM-GCC\ 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-git-10.3.0/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,jit,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-filesystem-ts=yes --disable-libstdcxx-pch --enable-libstdcxx-threads --enable-libstdcxx-time=yes --enable-mingw-wildcard --with-gnu-ld --disable-werror --enable-nls --disable-win32-registry --enable-large-address-aware --disable-rpath --disable-symvers --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=https://github.com/jmeubank/tdm-gcc/issues
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 10.3.0 (tdm64-1) 
+COMPILER_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_60557.exe' '-mtune=generic' '-march=x86-64'
+ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/collect2.exe -plugin D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/liblto_plugin-0.dll -plugin-opt=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\23957\AppData\Local\Temp\ccmMOhDf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep --exclude-libs=libpthread.a --undefined=__xl_f -Bdynamic -o cmTC_60557.exe D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/crtbegin.o -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0 -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../.. CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_60557.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lpthread -lgcc -lkernel32 -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lpthread -lgcc -lkernel32 -lmoldname -lmingwex -lmsvcrt -lkernel32 D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_60557.exe' '-mtune=generic' '-march=x86-64'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include]
+    add: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include]
+    add: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed]
+    add: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include]
+  end of search list found
+  collapse include dir [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include] ==> [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/x86_64-w64-mingw32/10.3.0/include]
+  collapse include dir [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include] ==> [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/include]
+  collapse include dir [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed] ==> [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed]
+  collapse include dir [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include] ==> [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/x86_64-w64-mingw32/include]
+  implicit include dirs: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/x86_64-w64-mingw32/10.3.0/include;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/include;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed;D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/x86_64-w64-mingw32/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/data structure/Big/004-Tree/001-parent/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-sw51ml]
+  ignore line: []
+  ignore line: [Run Build Command(s):D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/ninja/win/x64/ninja.exe cmTC_60557 && [1/2] Building C object CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=D:\ruanjiam\bianchen\C\TDM-GCC 10.3.0\bin\gcc.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-git-10.3.0/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,jit,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-filesystem-ts=yes --disable-libstdcxx-pch --enable-libstdcxx-threads --enable-libstdcxx-time=yes --enable-mingw-wildcard --with-gnu-ld --disable-werror --enable-nls --disable-win32-registry --enable-large-address-aware --disable-rpath --disable-symvers --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=https://github.com/jmeubank/tdm-gcc/issues]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 10.3.0 (tdm64-1) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/cc1.exe -quiet -v -iprefix D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/ -D_REENTRANT D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\Users\23957\AppData\Local\Temp\ccYtT1E2.s]
+  ignore line: [GNU C17 (tdm64-1) version 10.3.0 (x86_64-w64-mingw32)]
+  ignore line: [	compiled by GNU C version 10.3.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.23-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/include"]
+  ignore line: [ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"]
+  ignore line: [ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include]
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include]
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed]
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (tdm64-1) version 10.3.0 (x86_64-w64-mingw32)]
+  ignore line: [	compiled by GNU C version 10.3.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.23-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 68074fcaab9f6b1377b55f7cea05149b]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj C:\Users\23957\AppData\Local\Temp\ccYtT1E2.s]
+  ignore line: [GNU assembler version 2.36.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.36.1]
+  ignore line: [COMPILER_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [[2/2] Linking C executable cmTC_60557.exe]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=D:\ruanjiam\bianchen\C\TDM-GCC 10.3.0\bin\gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=D:/ruanjiam/bianchen/C/TDM-GCC\ 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/lto-wrapper.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-git-10.3.0/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,jit,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-filesystem-ts=yes --disable-libstdcxx-pch --enable-libstdcxx-threads --enable-libstdcxx-time=yes --enable-mingw-wildcard --with-gnu-ld --disable-werror --enable-nls --disable-win32-registry --enable-large-address-aware --disable-rpath --disable-symvers --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=https://github.com/jmeubank/tdm-gcc/issues]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 10.3.0 (tdm64-1) ]
+  ignore line: [COMPILER_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_60557.exe' '-mtune=generic' '-march=x86-64']
+  ignore line: [ D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/collect2.exe -plugin D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/liblto_plugin-0.dll -plugin-opt=D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../libexec/gcc/x86_64-w64-mingw32/10.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\23957\AppData\Local\Temp\ccmMOhDf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep --exclude-libs=libpthread.a --undefined=__xl_f -Bdynamic -o cmTC_60557.exe D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/crtbegin.o -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0 -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib -LD:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../.. CMakeFiles/cmTC_60557.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_60557.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lpthread -lgcc -lkernel32 -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lpthread -lgcc -lkernel32 -lmoldname -lmingwex -lmsvcrt -lkernel32 D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_60557.exe' '-mtune=generic' '-march=x86-64']
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
