@@ -1,0 +1,16 @@
+"D:\ruanjiam\bianchen\C\CLion\CLion 2022.2.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\data structure\qindao\001-List\005-apply\002-Consolidation of ordered tables\001-Sequence List" -B "D:\data structure\qindao\001-List\005-apply\002-Consolidation of ordered tables\001-Sequence List\cmake-build-debug"
+-- The C compiler identification is GNU 10.3.0
+-- The CXX compiler identification is GNU 10.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/ruanjiam/bianchen/C/TDM-GCC 10.3.0/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/data structure/qindao/001-List/005-apply/002-Consolidation of ordered tables/001-Sequence List/cmake-build-debug
