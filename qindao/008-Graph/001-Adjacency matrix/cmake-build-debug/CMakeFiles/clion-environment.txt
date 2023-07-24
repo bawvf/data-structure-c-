@@ -1,0 +1,4 @@
+ToolSet: w64 8.0 (local)@D:\ruanjiam\bianchen\C\TDM-GCC 10.3.0
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/ruanjiam/bianchen/C/CLion/CLion 2022.2.4/bin/ninja/win/x64/ninja.exe
