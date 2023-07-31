@@ -1,0 +1,3 @@
+D:/data structure/qindao/010-Sort/cmake-build-debug/CMakeFiles/010_Sort.dir
+D:/data structure/qindao/010-Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data structure/qindao/010-Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
